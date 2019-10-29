@@ -1,6 +1,5 @@
 package com.matcontrol.control;
 
-import android.graphics.Rect;
 import android.view.MotionEvent;
 import android.view.View;
 

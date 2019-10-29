@@ -19,7 +19,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-
+    implementation project(':library')
     implementation 'androidx.appcompat:appcompat:1.1.0-rc1'
     implementation 'com.google.android.material:material:1.1.0-alpha09'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
