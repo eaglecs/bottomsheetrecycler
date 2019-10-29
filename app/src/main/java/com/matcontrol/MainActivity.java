@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private Button mRecyclerDialogBtn;
 
     private CoordinatorLayout mParent;
+    //kjshfjkh
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
